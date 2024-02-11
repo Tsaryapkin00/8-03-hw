@@ -18,7 +18,7 @@
 
 ### Решение 1
 
-![img](img width="667" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/682add8e-34b4-49b8-aad9-c13a600bfc63")
+![img](<img width="667" alt="Снимок экрана 2024-02-11 173138" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/4418af1d-fb33-4f74-9742-7c7829073f0a">)
 
 Код для терминала
 ```bash
