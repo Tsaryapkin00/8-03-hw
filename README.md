@@ -20,6 +20,20 @@
 
 ![](<img width="667" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/682add8e-34b4-49b8-aad9-c13a600bfc63">)
 
+Код для терминала
+```bash
+# wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.0-4+ubuntu22.04_all.deb
+# dpkg -i zabbix-release_6.0-4+ubuntu22.04_all.deb
+# apt update
+# apt install zabbix-server-pgsql zabbix-frontend-php php8.1-pgsql zabbix-apache-conf zabbix-sql-scripts zabbix-agent
+# sudo -u postgres createuser --pwprompt zabbix
+# sudo -u postgres createdb -O zabbix zabbix
+# zcat /usr/share/zabbix-sql-scripts/postgresql/server.sql.gz | sudo -u zabbix psql zabbix
+# sed -i 's/# DBPassword=/DBPassword=<Пароль>/g' /etc/zabbix_server.conf
+# systemctl restart zabbix-server zabbix-agent apache2
+# systemctl enable zabbix-server zabbix-agent apache2
+```
+
 ---
 
 ### Задание 2
