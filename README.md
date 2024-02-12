@@ -58,7 +58,8 @@
 ### Решение 2
 
 1. !()[<img width="1250" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/ae52c5f7-667d-4ea7-96d3-f7f2fe444d92">]
-2. !()[<img width="1246" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/ccc3c723-0de2-4e1e-8ab5-31db0a214020">]
+2. !()[<img width="1165" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/d5b1173f-e2ec-46a0-91e5-903388d5466e">]
+3. !()[<img width="1246" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/ccc3c723-0de2-4e1e-8ab5-31db0a214020">]
 
 Код для терминала
 ```bash
