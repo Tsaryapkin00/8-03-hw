@@ -55,6 +55,19 @@
 
 ---
 
-### Репшение 2
+### Решение 2
+
+1. !()[<img width="1250" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/ae52c5f7-667d-4ea7-96d3-f7f2fe444d92">]
+2. !()[<img width="1246" alt="image" src="https://github.com/Tsaryapkin00/8-03-hw/assets/117481592/ccc3c723-0de2-4e1e-8ab5-31db0a214020">]
+
+Код для терминала
+```bash
+# wget https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
+# dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb
+# apt update
+# apt install zabbix-agent
+# systemctl restart zabbix-agent
+# systemctl enable zabbix-agent
+```
 
 ---
